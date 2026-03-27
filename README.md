@@ -3,7 +3,7 @@
 <div align="center">
 
 # Carlos Yanes
-### Senior Software Engineer — Mobile & Full Stack
+### Senior Software Engineer — Full Stack & Mobile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ceyanesb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://carlosyanes.com)
