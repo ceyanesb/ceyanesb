@@ -69,6 +69,13 @@ I'm also actively building with AI — working with Claude API, OpenAI API, and 
 - 🤖 Exploring AI agent development with Claude API and OpenAI
 - ⚙️ Automating workflows with n8n
 
+## Currently Learning
+
+- 🧠 AI agent development with Claude API + FastAPI
+- 📦 **IBM RAG and Agentic AI Professional Certificate** — Coursera (in progress)
+- 📋 **IBM Product Management Professional Certificate** — Coursera (in progress)
+- 📸 Photography — follow my work [@yanes.frames](https://instagram.com/yanes.frames)
+
 ---
 
 ## Notable Work
