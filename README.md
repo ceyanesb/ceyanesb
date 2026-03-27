@@ -15,7 +15,7 @@
 
 ## About Me
 
-Senior Software Engineer with 7+ years building production mobile and web applications. I specialize in **React Native** and **full stack TypeScript**, with deep experience taking products from 0→1 and leading platform migrations at scale.
+Senior Software Engineer with 8+ years building production web and mobile products. I specialize in **full stack TypeScript** and **React Native**, with deep experience taking products from 0→1 and leading platform migrations at scale.
 
 Currently at **Firstleaf**, where I led a full mobile platform migration to Shopify — reducing app load time by 90% and bundle size by 65%. Previously at **Standard AI** as sole mobile developer, shipping checkout-free shopping apps deployed across Circle K locations, sports venues, and university campuses.
 
@@ -91,5 +91,7 @@ I'm also actively building with AI — working with Claude API, OpenAI API, and 
 > 📁 My repositories are private due to client and employer confidentiality. Feel free to reach out via [LinkedIn](https://linkedin.com/in/ceyanesb) or [email](mailto:ceyanesb@gmail.com) to discuss my work.
 
 <div align="center">
-<sub>Based in Venezuela 🇻🇪 · Available for remote roles · EU work authorization 🇪🇺</sub>
+ 
+### Based in Venezuela 🇻🇪 · Available for remote roles · EU work authorization 🇪🇺
+ 
 </div>
